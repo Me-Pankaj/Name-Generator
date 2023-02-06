@@ -2,7 +2,7 @@
   "name": "nameit",
   "homepage": "http://PranaliLahoti.github.io/nameit/",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@rstacruz/startup-name-generator": "0.3.0",
     "@testing-library/jest-dom": "^5.11.9",
